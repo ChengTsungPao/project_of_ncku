@@ -1,0 +1,5 @@
+project.sdf
+project.opensdf
+Debug/
+Release/
+.vs/
